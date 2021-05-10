@@ -139,7 +139,7 @@ function App() {
         </div>
         <div className="buttons">
           <input className={`Btn ${isSorted ? "newArr" : ""}`} type="button" value="New Array" onClick={initialiseArray}></input>
-          <input className="Btn" type="button" value="Quick sort" onClick={quickSort}></input>
+          <input className="Btn" type="button" value="Quick Sort" onClick={quickSort}></input>
           <input className="Btn" type="button" value="Insertion Sort" onClick={insertionSort}></input>
           <input className="Btn" type="button" value="Merge Sort" onClick={mergeSort}></input>
         </div>
