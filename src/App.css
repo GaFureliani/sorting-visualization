@@ -81,6 +81,7 @@
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  font-weight: bold;
 }
 
 .Btn:hover {
@@ -114,5 +115,5 @@
   justify-content: center;
 }
 .slider p{text-align: center;}
-.newArr{background-color: #db1f48c5; font-weight: bold;}
-.newArr:hover{background-color: #DB1F48; font-weight: bold;}
+.newArr{background-color: #db1f48c5;}
+.newArr:hover{background-color: #DB1F48;}
